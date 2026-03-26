@@ -1,4 +1,3 @@
-# hotel-booking-sql-qa
 # Hotel Booking System — SQL QA Validation Project
 
 A database validation project simulating real-world QA testing on a hotel booking system.  
